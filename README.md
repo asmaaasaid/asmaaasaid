@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asmaaasaid
-- 👀 I’m interested in Web Development
+- 👀 I’m  Frontend Developer
 - 📫 How to reach me (asmaasaidawad98@gmail.com)
 - ⚡ Graduated from faculty of Engineering Alazhar University
 - ✨ Graduated from ITI at full stack web development using MEARN
